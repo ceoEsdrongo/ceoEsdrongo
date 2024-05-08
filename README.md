@@ -3,7 +3,9 @@ Mala noticia mi gente, el que quiera perder el tiempo viendo este video que lo p
 
 
 
-![image](https://github.com/ceoEsdrongo/ceoEsdrongo/assets/150335445/224721db-4e3c-4cea-a2c6-2954636e3227) (https://github.com/ceoEsdrongo/ceoEsdrongo/assets/150335445/d0d7d987-7ea6-4738-a7d4-788034b211c3)
+![image](https://github.com/ceoEsdrongo/ceoEsdrongo/assets/150335445/224721db-4e3c-4cea-a2c6-2954636e3227) 
+![image](https://github.com/ceoEsdrongo/ceoEsdrongo/assets/150335445/bed7840f-8bbc-4ae1-9d9f-055fbdd93d70)
+
 
 
 
