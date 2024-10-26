@@ -1,5 +1,7 @@
 # Benvenuto nella mia Divina Stalla
 
+<div style="text-align: center;">
+
 ## Linguaggi di Programmazione
 
 Ecco i linguaggi di programmazione che so utilizzare:
@@ -26,3 +28,5 @@ Ecco i linguaggi di programmazione che so utilizzare:
 ## Contatti
 
 Se vuoi metterti in contatto con me, non farlo grazie.
+
+</div>
