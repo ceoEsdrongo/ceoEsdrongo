@@ -20,6 +20,7 @@ Ecco i linguaggi di programmazione che so utilizzare:
 
 <img src="https://cdn.motor1.com/images/mgl/nAylQR/s1/mercedes-amg-c-63-s-e-performance-2023-f1-edition.jpg" width="300" alt="Mercedes CLS 63 AMG"/>  
 <img src="https://www.autoscout24.it/cms-content-assets/14iaHGmHq9WPT1ICMiutSo-c5f2ecaee9229b73ade40f50b6eda07c-Mercedes_GLC-1100.jpg" width="300" alt="Mercedes GLC"/>
+<img src="[https://www.autoscout24.it/cms-content-assets/14iaHGmHq9WPT1ICMiutSo-c5f2ecaee9229b73ade40f50b6eda07c-Mercedes_GLC-1100.jpg](https://images.ctfassets.net/v7noovwbh2s3/1mTTUmSB1WL0zd5ytirQdx/1da124cf944a931c931c79acc196a4fa/Onyx_Black.png)" width="300" alt="aston martin db12"/>
 
 </div>
 
